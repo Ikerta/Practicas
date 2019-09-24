@@ -10,7 +10,7 @@ public class VentanaCerrar extends JFrame{
 	
 	public VentanaCerrar(){
 		
-		this.setTitle("Prueba");
+		this.setTitle("Prueba 2");
 		this.setSize(600, 400);
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		this.setVisible(true);
